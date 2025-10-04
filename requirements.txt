@@ -1,0 +1,22 @@
+# Core PDF Processing
+pdfplumber>=0.10.0
+pymupdf4llm>=0.0.1
+pypdfium2>=4.0.0
+
+# LLM Integration
+requests>=2.31.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Database
+pymongo>=4.5.0
+
+# Image Processing (for PDF rendering)
+Pillow>=10.0.0
+
+# Development Dependencies (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
