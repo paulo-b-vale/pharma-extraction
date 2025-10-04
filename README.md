@@ -66,7 +66,7 @@ ollama pull llama3.2:3b
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/pharma-extraction.git
+git clone https://github.com/paulo-b-vale/pharma-extraction.git
 cd pharma-extraction
 
 # Create virtual environment
@@ -300,9 +300,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+**Paulo Vale**
+- GitHub: [@paulo-b-vale](https://github.com/paulo-b-vale)
+- LinkedIn: [Paulo Vale](https://linkedin.com/in/paulo-b-vale)
 
 ## 🙏 Acknowledgments
 
@@ -323,6 +323,3 @@ MIT License - see [LICENSE](LICENSE) file for details.
 **⭐ Star this repo if you find it useful!**
 
 *Built to showcase production-ready ML/NLP engineering skills for enterprise job applications.*
-#   p h a r m a - e x t r a c t i o n  
- #   p h a r m a - e x t r a c t i o n  
- 
